@@ -9,7 +9,7 @@
 * @Description: ${todo}(这里用一句话描述这个类的作用)  
 * 
 * @author matrix 
-* @date ${date}  ${time}
+* @date ${currentDate:date('yyyy-MM-dd HH:mm:ss')}
 *
 * @Copyright: ${year} www.matrix.com Inc. All rights reserved. 
 */  </template><template autoinsert="true" context="fieldcomment_context" deleted="false" description="Comment for fields" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.fieldcomment" name="fieldcomment">/**
